@@ -2,8 +2,14 @@
 
 ## 2026-11-05
 
-- Izveidota projekta mapju struktūra un Codex darba instrukcijas.
-- Atrasts oriģinālais OECD ziņojums: “Draft report - Fostering water resilience in Latvia - For stakeholders 4 Nov 2026.docx”.
-- Atrasts iepriekšējais tulkojuma fails: “udens_resursu_noturiba_Latvija_tulkojums_2dala.docx”. Tas satur sadaļas par notekūdeņu apsaimniekošanu, investīciju vajadzībām un megatendencēm.
-- Jāievieto oriģinālais un iepriekšējais DOCX mapē `source/`, lai Codex varētu tos izmantot lokālajā darba vidē.
-- Tulkojuma pilna apjoma pārbaude vēl nav veikta.
+- Izveidota projekta mapju struktūra un Codex darba instrukcijas (`AGENTS.md`).
+- Atrasts oriģinālais OECD ziņojums: “Draft report - Fostering water resilience in Latvia - For stakeholders 4 Nov 2026.docx”. Tas vēl jāievieto repozitorija mapē `source/`.
+- Atrasts iepriekšējais tulkojuma fails: “udens_resursu_noturiba_Latvija_tulkojums_2dala.docx”.
+- Iepriekšējā tulkojuma 2. daļa sadalīta atsevišķos Markdown failos:
+  - `translation/01-notekudenu-apsaimniekosana.md`
+  - `translation/02-investiciju-vajadzibas.md`
+  - `translation/03-megatendences.md`
+  - `translation/04-terminu-piezimes.md`
+- Izveidota `translation/GLOSSARY.md`.
+- Esošās tulkojuma sadaļas vēl jāpārbauda pret angļu oriģinālu.
+- Nākamais solis: pievienot oriģinālo DOCX failu mapē `source/`, tad palaist Codex ar instrukcijām no `AGENTS.md`.
