@@ -6,6 +6,12 @@
 | water security | ūdensdrošība | Lietot atbilstoši kontekstam; atšķirt no water resilience |
 | water supply and sanitation (WSS) | ūdensapgāde un kanalizācija (ŪK) | Lietot konsekventi |
 | water supply and sanitation services | ūdensapgādes un kanalizācijas pakalpojumi | |
+| water governance | ūdens pārvaldība | |
+| institutional capacity | institucionālā kapacitāte | |
+| policy coherence | politikas saskaņotība | |
+| territorial development | teritoriālā attīstība | |
+| financial sustainability | finansiālā ilgtspēja | |
+| service delivery | pakalpojumu sniegšana | |
 | wastewater | notekūdeņi | |
 | wastewater treatment | notekūdeņu attīrīšana | |
 | wastewater treatment plant (WWTP) | notekūdeņu attīrīšanas iekārta (NAI) | |

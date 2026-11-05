@@ -37,3 +37,14 @@
 - Veikta tehniskā pārbaude: DOCX arhīva tests ar `unzip -t` bez kļūdām, 7 tabulas un 7 ārējo saišu attiecības atrastas dokumentā, tulkojumā nav atstātas `[PĀRBAUDĀMS]`, `TODO` vai `FIXME` atzīmes.
 - Pārbaudīts avota satura rādītājs pret tulkojuma failiem: 1.–3. nodaļa, četras rekomendācijas, A pielikuma ietvars, visi avota attēlu un tabulu paraksti, informācijas ielikumi un piezīmes ir pārnesti. Avota iekšējās attēlu atsauču neatbilstības saglabātas un nav klusējot labotas.
 - `work/` pievienots `.gitignore`, lai renderēšanas starpfaili netiktu iekļauti repozitorijā.
+
+## 2026-11-05 — DOCX pārbūve no oriģināla veidnes
+
+- DOCX ģenerēšanas skripts pārbūvēts tā, lai latviešu dokuments tiktu veidots tieši no oriģinālā OECD DOCX veidnes, saglabājot avota izkārtojumu, stilus, tabulas, galvenes, kājenes, saites, attēlus un diagrammas.
+- Atjaunots trūkstošais 2.3. ielikuma tulkojums par 2021. gada administratīvi teritoriālo reformu.
+- Salaboti avota DOCX automātiskie attēlu un tabulu parakstu lauki, kas renderētājā rādīja nodaļas nosaukumu; paraksti tagad saglabā avota numerāciju un ir latviešu valodā.
+- Satura rādītājs, titullapa, konfidencialitātes paziņojums, rekomendāciju ieraksti un A pielikuma soļi aizstāti ar latviešu tekstu.
+- Zemsvītras piezīmes atjaunotas no avota DOCX struktūras un aizstātas ar visām 15 latviešu definīcijām.
+- Pārbaude: avotā un gala DOCX ir 16 tabulas, 13 iegultie attēli un 18 multivides objekti; avota renderējums ir 121 lappuse, LV renderējums — 123 lappuses.
+- `unzip -t` gala DOCX arhīvam izpildīts bez kļūdām; pārbaudīts, ka redzamajā dokumenta XML vairs nav galveno angļu valodas virsrakstu, satura rādītāja ierakstu vai zemsvītras piezīmju tekstu.
+- Iegulto diagrammu iekšējie uzraksti saglabāti kā avota attēlu daļa; tulkoti to dokumenta paraksti.

@@ -24,9 +24,9 @@ Pilnais tulkojums ir pabeigts un sadalīts secīgos Markdown failos:
 
 Iepriekšējie tulkojuma fragmenti ir pārbaudīti pret oriģinālu un integrēti šajos pilnajos failos. Terminu konsekvenci uztur `translation/GLOSSARY.md`.
 
-DOCX dokumentu izveido `scripts/build_docx.py`. Tas saglabā virsrakstu hierarhiju, sarakstus, Markdown tabulas, aktīvas ārējās saites un piezīmes failu numerācijas secībā.
+DOCX dokumentu izveido `scripts/build_docx.py`. Skripts izmanto oriģinālo OECD DOCX kā veidni un aizstāj tajā tekstu ar latviešu tulkojumu, tādēļ tiek saglabāti avota izkārtojums, stili, galvenes, kājenes, attēli, diagrammas, tabulas, aktīvās saites un zemsvītras piezīmju struktūra.
 
-Veikta gala kvalitātes kontrole: pārbaudīta avota struktūra un tulkojuma sadaļu secība, attēlu un tabulu paraksti, skaitļi, procenti, datumi, mērvienības, atsauces, terminoloģija, Markdown UTF-8 kodējums, DOCX ZIP struktūra un renderētas dokumenta lappuses. Avota iekšējās atsauces uz attēliem, kas savstarpēji nesakrīt, ir saglabātas un aprakstītas `CHANGELOG.md`.
+Veikta gala kvalitātes kontrole: pārbaudīta avota struktūra un tulkojuma sadaļu secība, attēlu un tabulu paraksti, skaitļi, procenti, datumi, mērvienības, atsauces, terminoloģija, Markdown UTF-8 kodējums, DOCX ZIP struktūra un renderētas dokumenta lappuses. Avota un LV DOCX saglabā 16 tabulas, 13 iegultos attēlus un 18 multivides objektus. Tā kā diagrammas ir iegulti attēli, to iekšējie angļu valodas uzraksti nav pārzīmēti; tulkoti ir dokumenta teksts un attēlu paraksti. Avota iekšējās atsauces uz attēliem, kas savstarpēji nesakrīt, ir saglabātas un aprakstītas `CHANGELOG.md`.
 
 ## Turpmāka atjaunināšana ar Codex
 

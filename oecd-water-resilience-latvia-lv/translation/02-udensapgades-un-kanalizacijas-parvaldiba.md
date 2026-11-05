@@ -118,6 +118,22 @@ Latvijā ŪK pakalpojumu organizēšana ir pašvaldību autonomā funkcija. Paš
 
 2021. gada administratīvi teritoriālā reforma pakāpeniski pārveidoja ŪK pakalpojumu sniegšanas struktūru, konsolidējot pašvaldības, samazinot pašvaldību īpašnieku skaitu un izveidojot lielākas potenciālās pakalpojumu teritorijas. Reforma 2021. gadā samazināja pašvaldību skaitu no 119 līdz 43, bet 2025. gadā to skaits samazinājās līdz 42 (2.3. ielikums), dažās jaunizveidotajās lielākajās pašvaldībās atstājot vairākus ŪK pakalpojumu sniedzējus. Tas mudināja dažas pašvaldības konsolidēt pakalpojumu sniegšanu, parasti apvienojot mazākus pakalpojumu sniedzējus ar lielāko pašvaldības pakalpojumu sniedzēju vai nododot tam funkcijas un aktīvus, ko iepriekš pārvaldīja pašvaldību iestādes vai mazāki uzņēmumi. Šos lēmumus daļēji motivēja sagaidāmi efektivitātes un finansiālās ilgtspējas ieguvumi. Līdz 2026. gada jūnijam SPRK savā publisko pakalpojumu sniedzēju reģistrā kopš reformas bija reģistrējusi 66 izmaiņas ŪK tirgus struktūrā. Piemēram, 2025. gadā pēc reorganizācijas no reģistra izslēgti trīs pakalpojumu sniedzēji, bet 13 regulētie pakalpojumu sniedzēji paplašināja pakalpojumu teritorijas, pārņemot pakalpojumus, ko iepriekš sniedza pašvaldību administrācijas. Tomēr vairākās pašvaldībās joprojām ir vairāki pakalpojumu sniedzēji, savukārt praksē ir maz pakalpojumu sniedzēju, kas darbojas pāri pašvaldību robežām.
 
+**2.3. ielikums. 2021. gada administratīvi teritoriālā reforma**
+
+2020. gada jūnijā pieņemtā un kopš 2021. gada 1. jūlija spēkā esošā Latvijas administratīvi teritoriālā reforma ir viena no vērienīgākajām teritoriālajām reformām OECD valstīs pēdējo divu desmitgažu laikā (2.2. attēls). Reforma apvienoja 119 pašvaldības 35 novados un 7 valstspilsētās, kas tiesību aktos ir nošķirtas, taču īsteno līdzīgus pienākumus un tām ir pieejami salīdzināmi resursi.
+
+**2.2. attēls. Pašvaldību apvienošanās OECD valstīs, 2005.–2025. gads**
+
+Pašvaldību skaita izmaiņas (%)
+
+Avots: OECD
+
+Reformas mērķis bija risināt pašvaldību sadrumstalotības problēmas un veicināt līdzsvarotāku teritoriālo attīstību. Apvienojot mazākas vienības lielākās, reformas mērķis bija stiprināt pašvaldību ekonomisko dzīvotspēju un uzlabot to spēju visā valstī nodrošināt ar likumu noteiktās funkcijas un līdzvērtīgas kvalitātes publiskos pakalpojumus par samērīgām izmaksām. Reformu papildināja izmaiņas pašvaldību pienākumos: dažas kompetences tika paplašinātas (piemēram, pašvaldības policija kļuva obligāta visās pašvaldībās), savukārt tika ieviesti jauni pienākumi, tostarp klimata pārmaiņu mazināšanas un pielāgošanās jomā. Grozītais Pašvaldību likums arī nosaka pakāpenisku starppašvaldību sadarbības ietvaru ar dažādiem formalizācijas un juridiskā statusa līmeņiem, tostarp sadarbības līgumiem, kopīgām iestādēm un kopīgām komisijām.
+
+Reformas rezultātā izveidojās lielākas un finansiāli dzīvotspējīgākas pašvaldības, kurām ir tāds mērogs un resursi, lai publiskos pakalpojumus un investīcijas savā teritorijā īstenotu efektīvāk nekā pirms reformas sadrumstalotajā sistēmā. Sākotnējie reformas notiekošās ietekmes novērtējuma rezultāti liecina par pašvaldību budžetu pieaugumu, lielāku elastību lielu un sarežģītu projektu plānošanā un labāku ES līdzekļu apguvi. Atšķirība starp lielāko un mazāko pašvaldību budžeta ieņēmumiem samazinājās no 34 reižu atšķirības pirms reformas līdz seškārtīgai atšķirībai 2022. gadā, bet pašvaldību īpatsvars, kuru gada budžeta ieņēmumi bija mazāki par 10 miljoniem EUR, būtiski samazinājās — no 60 pirms reformas līdz tikai vienai pašvaldībai.
+
+Avoti:
+
 Valsts kontrole ex post uzrauga ŪK pakalpojumu sniegšanu un infrastruktūras pārvaldību, revidējot pašvaldību un pašvaldību kapitālsabiedrību darbību un publisko resursu izmantošanu. Tās 2020. gada revīzijā par notekūdeņu apsaimniekošanu tika konstatēti ilgstoši trūkumi, neraugoties uz būtiskām investīcijām infrastruktūrā, tostarp zems pieslēgumu īpatsvars no jauna izbūvētajiem tīkliem, nepilnības decentralizēto notekūdeņu apsaimniekošanā un neatrisināti jautājumi saistībā ar lietusūdeni un notekūdeņu dūņām. Savukārt 2023. gadā Valsts kontrole izskatīja pašvaldību kā ŪK pakalpojumu sniedzēju īpašnieku lomu un konstatēja, ka pašvaldības ne vienmēr ir skaidri definējušas publiskās īpašumtiesību mērķus vai pietiekami novērtējušas uzņēmumu finanšu rezultātus un darbības rādītājus, tādējādi ierobežojot iespēju spriest, vai uzņēmumi ilgtermiņā var ilgtspējīgi sniegt publiskos pakalpojumus.
 
 ### Infrastruktūras un investīciju plānošana
