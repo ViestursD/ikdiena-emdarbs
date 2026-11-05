@@ -17,7 +17,7 @@ Patstāvīgi iztulkot visu OECD ziņojumu “Fostering Water Resilience in Latvi
 ## Avota faili
 
 Primārais avots:
-`source/oecd-water-resilience-latvia-en.docx`
+`source/Draft%20report%20-%20Fostering%20water%20resilience%20in%20Latvia%20-%20For%20stakeholders%204%20Nov%202026.docx`
 
 Ja šī faila nav, neizdomā tulkojumu. Pārbaudi `source/` saturu un skaidri norādi, ka nepieciešams ievietot oriģinālo ziņojumu. Ja ir pieejams iepriekšējais tulkojums, izmanto to kā darba turpinājuma pamatu, bet pārbaudi pret angļu oriģinālu.
 
@@ -62,10 +62,10 @@ Izveido `translation/GLOSSARY.md` un papildini to ar terminiem, kuru tulkojums j
 
 ## Failu organizācija
 
-- `translation/00-ievads-un-kopsavilkums.md`
+- `translation/00-saīsinājumi-un-akronīmi.md`
 - `translation/01-udensapgade-un-kanalizacija.md`
-- Turpmākās nodaļas atsevišķos failos ar secīgiem numuriem un īsiem latviskiem nosaukumiem.
-- `translation/APPENDICES.md` vai atsevišķi pielikumu faili, ja avotā ir pielikumi.
+- `translation/02-udensapgades-un-kanalizacijas-parvaldiba.md`
+- `translation/03-ilgtermina-strategija.md` — ietver 1.–4. rekomendāciju un A pielikumu.
 - `translation/GLOSSARY.md` — terminoloģija.
 - Katram failam sāc ar virsrakstu, kas atbilst avota sadaļai. Neiekļauj mākslīgus kopsavilkumus vai tulkotāja komentārus pamattekstā.
 

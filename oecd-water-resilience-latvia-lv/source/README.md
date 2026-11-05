@@ -1,8 +1,8 @@
 # Avota dokumenti
 
-Ievieto šeit oriģinālo OECD ziņojumu:
+Oriģinālais OECD ziņojums šajā mapē ir saglabāts ar faila nosaukumu:
 
-`oecd-water-resilience-latvia-en.docx`
+`Draft%20report%20-%20Fostering%20water%20resilience%20in%20Latvia%20-%20For%20stakeholders%204%20Nov%202026.docx`
 
 Vēlams ievietot arī iepriekš sagatavoto latviešu tulkojumu, lai Codex varētu turpināt no jau paveiktā un salīdzināt to ar oriģinālu.
 
